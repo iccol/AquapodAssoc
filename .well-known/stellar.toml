@@ -31,9 +31,10 @@ verification_photo_hash=""
 [[CURRENCIES]]
 code="AQUAPODASSOC"
 issuer="GBBT7SR6TODAKWJDG3NJEARPRQEDKO6AAR35Q36YQZP6367FQASLLW3F"
+is_asset_anchored=false
 display_decimals=4
 name="Aquapod Association"
 desc="Fungible base/counter cryptocurrency. t.me/aquapod_bot / @aquapod_bot"
-conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
+conditions="Verified mint. Active burn policy. Issuer may mint additional tokens. Token holders are requested to have a current stake in "AQUAPOD"
 image="https://aquapodassociation.pages.dev/images/Aquapod.png"
 fixed_number=1000000000
