@@ -37,5 +37,5 @@ display_decimals=4
 name="Aquapod Association"
 desc="Fungible base/counter cryptocurrency. t.me/aquapod_bot / @aquapod_bot"
 conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
-image="https://aquapod.pages.dev/images/Aquapod.png"
-fixed_number=999999
+image="https://aquapodassociation.pages.dev/images/Aquapod.png"
+fixed_number=1000000000
