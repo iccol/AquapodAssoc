@@ -1,5 +1,3 @@
-FEDERATION_SERVER="https://api.stellar.org/federation"
-TRANSFER_SERVER="https://api.stellar.org/auth"
 HORIZON_URL="https://horizon.stellar.org"
 
 ACCOUNTS=["GDVWPEOTJOPRT433PX6LULEPML5AN6QJO4GCFVFK43IPRQ23NPQAUSDF",
