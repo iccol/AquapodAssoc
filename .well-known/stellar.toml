@@ -12,7 +12,7 @@ ORG_DESCRIPTION="Aquapod owners association"
 ORG_PHYSICAL_ADDRESS="Los Angeles, CA 90067, United States"
 ORG_PHYSICAL_ADDRESS_ATTESTATION="https://aquapodassociation.pages.dev/docblprivate.pdf"
 ORG_PHONE_NUMBER="+18446612487"
-ORG_PHONE_NUMBER_ATTESTATION="phn.jpg"
+ORG_PHONE_NUMBER_ATTESTATION="https://aquapodassociation.pages.dev/phn.jpg"
 ORG_KEYBASE="aquapod*keybase.io"
 
 ORG_TWITTER=""
